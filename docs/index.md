@@ -16,6 +16,7 @@ permalink: "/"  #! Remove this if not the homepage
 
 The following slide deck is for Module 5 of the ArcGIS Pro workshop. This module will teach you how to manipulate and analyze raster data in ArcGIS Pro.
 
-[https://docs.google.com/presentation/d/e/2PACX-1vQ631-yfbZK4iaua82rb8mIhAQeDjTnwC640LarhKorYv1OAuleatby1VcKZ4POWg/embed?start=false&loop=false&delayms=3000](https://docs.google.com/presentation/d/e/2PACX-1vQ631-yfbZK4iaua82rb8mIhAQeDjTnwC640LarhKorYv1OAuleatby1VcKZ4POWg/embed?start=false&loop=false&delayms=3000)
+<iframe allowfullscreen="true" frameborder="0" height="569" mozallowfullscreen="true" src="https://docs.google.com/presentation/d/e/2PACX-1vQ631-yfbZK4iaua82rb8mIhAQeDjTnwC640LarhKorYv1OAuleatby1VcKZ4POWg/embed?start=false&loop=false&delayms=3000" webkitallowfullscreen="true" width="960"></iframe>
+
 
 Technique: [Mapping](https://mdl.library.utoronto.ca/technique/mapping), [Spatial Analysis](https://mdl.library.utoronto.ca/technique/spatial-analysis) | Tools: [ArcGIS Pro](https://mdl.library.utoronto.ca/taxonomy/term/70)
